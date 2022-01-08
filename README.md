@@ -9,4 +9,4 @@
 <li>socket.io</li>
 </ul>
 
-<p>As mensgens são atualizadas dinâmicamente e para fazer o teste você deve abrir 2 novas janelas, o texto escrito em uma janela, será atualizado na outra</p>
+<p>As mensgens são atualizadas dinamicamente e para fazer o teste você deve abrir 2 novas janelas, o texto escrito em uma janela, será atualizado na outra</p>
