@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>App-chat</title>
+</head>
+<body>
+    <div class="container">
+        <h1 class="h1-app">App chat</h1>
+    <form name="user_form_name" id="user_form">
+        
+        <input name="user" type="text" id="user" autocomplete="off" class="inp inp-user">
+        <button type="submit" class="btn btn-user">Definir</button>
+    </form>
+
+    <div id="messages">
+        
+    </div>
+
+    <form name="message_form_name" id="message_form">
+       <i class="far fa-comment-dots chat-icon"></i> <input name="msg" type="text" id="message" autocomplete="off" class="inp inp-msg">
+        <button type="submit" class="btn btn-send">Enviar</button>
+    </form>
+</div>
+    <script src="https://kit.fontawesome.com/a501ad0b84.js" crossorigin="anonymous"></script>
+    <script src="./socket.io/socket.io.js"></script>
+    <script src="./chat.js"></script>
+</body>
+</html>

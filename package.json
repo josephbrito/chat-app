@@ -1,0 +1,26 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "chat-app made with socket.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josephbrito/chat-app"
+  },
+  "keywords": [
+    "chat-app"
+  ],
+  "author": "José de Brito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephbrito/chat-app/issues"
+  },
+  "homepage": "https://github.com/josephbrito/chat-app#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1"
+  }
+}
