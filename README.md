@@ -1,6 +1,7 @@
 # chat-app
 
-![chat](https://user-images.githubusercontent.com/84200694/148663755-61c7294d-3448-4e25-9a49-6ccc477e9ac7.gif)
+![chatatt](https://user-images.githubusercontent.com/84200694/148663861-8ee162c6-5ba4-43b9-b335-a86caad822cb.gif)
+
 
 <p>Aplicativo de chat feito em <strong>Node</strong> com as seguintes dependências:</p>
 <ul>
